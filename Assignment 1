@@ -1,0 +1,9 @@
+S=input() 
+l=list(s)
+for i in l:
+     if i=='A' or i=='a':
+        Continue
+      else:
+           x.append(i)
+for i in x:
+     Print (i,end=' ')
